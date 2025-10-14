@@ -28,13 +28,13 @@ export default function Home() {
       </p>
 
       {/* ABOUT */}
-      <h2 className="text-2xl font-semibold mb-2">About Me</h2>
+      <h2 className="text-2xl font-semibold mb-2">“🌸 About Me 🌸”</h2>
       <p className="text-gray-400 text-center max-w-md mb-12">
         Passionate in technology, UI/UX, and education. Currently learning Next.js and building LMS platform.
       </p>
 
       {/* SKILLS */}
-      <h2 className="text-2xl font-semibold mb-6">Skills</h2>
+      <h2 className="text-2xl font-semibold mb-6">✨My Skills✨</h2>
         <div className="flex gap-6 text-4xl mb-16">
           <SiHtml5 size={40} color="#F97316" />
           <SiCss3 size={40} color="#2563EB" />         
@@ -46,13 +46,13 @@ export default function Home() {
 
 
       {/* CONTACT */}
-      <h2 className="text-2xl font-semibold mb-3">Contact</h2>
+      <h2 className="text-2xl font-semibold mb-3">🌻Contact Me🌻</h2>
       <p className="text-gray-400 mb-4">Let’s build something together!</p>
       <a
         href="mailto:example@email.com"
         className="px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg font-medium hover:opacity-90 transition"
       >
-        Email Me
+        🎀Email Me🎀
       </a>
     </main>
   );
