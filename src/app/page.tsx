@@ -32,7 +32,7 @@ export default function Home() {
       {/* ABOUT */}
       <h2 className="text-2xl font-semibold mb-2">“🌸 About Me 🌸”</h2>
       <p className="text-gray-400 text-center max-w-md mb-12">
-        I'm passionate about technology, UI/UX, and continuous learning. Currently learning Next.js and developing platforms.
+        Im passionate about technology, UI/UX, and continuous learning. Currently learning Next.js and developing platforms.
       </p>
 
       {/* SKILLS */}
