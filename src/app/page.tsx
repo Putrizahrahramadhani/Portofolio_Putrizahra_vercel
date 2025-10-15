@@ -22,17 +22,17 @@ export default function Home() {
       />
 
       {/* HERO */}
-      <h1 className="text-4xl md:text-5xl font-bold mb-3 bg-gradient-to-r from-pink-400 to-purple-500 bg-clip-text text-transparent">
+      <h1 className="text-4xl md:text-5xl font-bold mb-3 bg-gradient-to-r from-pink-300 to-purple-300 bg-clip-text text-transparent">
         Hi, Im Putri Zahrah Ramadhani 👋
       </h1>
       <p className="text-gray-300 text-center max-w-md mb-12">
-        Web Developer & Law Student who builds modern web applications.
+        An Informatics Student and Web Developer who loves creating modern, interactive web experiences.
       </p>
 
       {/* ABOUT */}
       <h2 className="text-2xl font-semibold mb-2">“🌸 About Me 🌸”</h2>
       <p className="text-gray-400 text-center max-w-md mb-12">
-        Passionate in technology, UI/UX, and education. Currently learning Next.js and building LMS platform.
+        I'm passionate about technology, UI/UX, and continuous learning. Currently learning Next.js and developing platforms.
       </p>
 
       {/* SKILLS */}
@@ -49,7 +49,7 @@ export default function Home() {
 
       {/* CONTACT */}
       <h2 className="text-2xl font-semibold mb-3">🌻Contact Me🌻</h2>
-      <p className="text-gray-400 mb-4">Let’s build something together!</p>
+      <p className="text-gray-400 mb-4">Let’s collaborate and build something amazingtogether!</p>
       <a
         href="mailto:example@email.com"
         className="px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg font-medium hover:opacity-90 transition"
