@@ -10,7 +10,8 @@ import {
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-black text-white flex flex-col items-center justify-center px-6 py-12">
+    <main className="min-h-screen bg-gradient-to-b from-purple-900 via-indigo-900 to-black text-white flex flex-col items-center justify-center px-6 py-12">
+      
       
       {/* FOTO */}
       <Image
@@ -22,8 +23,8 @@ export default function Home() {
       />
 
       {/* HERO */}
-      <h1 className="text-4xl md:text-5xl font-bold mb-3 bg-gradient-to-r from-pink-300 to-purple-300 bg-clip-text text-transparent">
-        Hi, Im Putri Zahrah Ramadhani 👋
+      <h1 className="text-4xl md:text-5xl font-bold mb-3 bg-gradient-to-r from-purple-300 to-pink-400 bg-clip-text text-transparent">
+        Hi, Im Putri Zahrah Ramadhani
       </h1>
       <p className="text-gray-300 text-center max-w-md mb-12">
         An Informatics Student and Web Developer who loves creating modern, interactive web experiences.
