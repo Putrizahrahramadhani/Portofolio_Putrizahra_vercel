@@ -16,13 +16,15 @@ export default function Home() {
       <Image
         src="/profil_portofolio.jpeg"
         alt="Profile"
-        width={120}
-        height={120}
-        className="rounded-full mb-6 border-4 border-white shadow-lg"
+        width={140}
+        height={140}
+        className="rounded-full mb-6 border-4 border-white/20 shadow-xl hover:scale-105 transition-transform duration-300"
       />
 
       {/* HERO */}
-      <h1 className="text-4xl font-bold mb-2">Hi, Im Putri Zahrah Ramadhani👋</h1>
+      <h1 className="text-4xl md:text-5xl font-bold mb-3 bg-gradient-to-r from-pink-400 to-purple-500 bg-clip-text text-transparent">
+        Hi, Im Putri Zahrah Ramadhani 👋
+      </h1>
       <p className="text-gray-300 text-center max-w-md mb-12">
         Web Developer & Law Student who builds modern web applications.
       </p>
