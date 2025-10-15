@@ -23,7 +23,7 @@ export default function Home() {
       />
 
       {/* HERO */}
-      <h1 className="text-4xl md:text-5xl font-bold mb-3 bg-gradient-to-r from-purple-300 to-pink-600 bg-clip-text text-transparent">
+      <h1 className="text-4xl md:text-5xl font-bold mb-3 bg-gradient-to-r from-purple-600 to-pink-400 bg-clip-text text-transparent">
         Hi, Im Putri Zahrah Ramadhani
       </h1>
       <p className="text-gray-300 text-center max-w-md mb-12">
